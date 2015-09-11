@@ -1,0 +1,459 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resource>
+<surat>
+    <nomor>1</nomor>
+    <judul>Al Fatihah</judul><arti>Pembukaan</arti><jumlah>7</jumlah><suara>001.mp3</suara>
+</surat>
+<surat>
+    <nomor>2</nomor>
+    <judul>Al Baqarah</judul><arti>Sapi Betina</arti><jumlah>0</jumlah><suara>002.mp3</suara>
+</surat>
+<surat>
+    <nomor>3</nomor>
+    <judul>Ali ‘Imran</judul><arti>Keluarga ‘Imran</arti><jumlah>0</jumlah><suara>003.mp3</suara>
+</surat>
+<surat><nomor>4</nomor>
+    <judul>An Nisaa’</judul><arti>Wanita</arti><jumlah>0</jumlah><suara>004.mp3</suara>
+</surat>
+<surat>
+    <nomor>5</nomor>
+    <judul>Al Maa’idah</judul><arti>Hidangan</arti><jumlah>0</jumlah><suara>005.mp3</suara>
+</surat>
+<surat>
+    <nomor>6</nomor>
+    <judul>Al An’aam</judul><arti>Binatang Ternak</arti><jumlah>0</jumlah><suara>006.mp3</suara>
+</surat>
+<surat>
+    <nomor>7</nomor>
+    <judul>Al Anfaal </judul><arti>Rampasan Perang</arti><jumlah>0</jumlah><suara>007.mp3</suara>
+</surat>
+<surat>
+    <nomor>8</nomor>
+    <judul>Al A’raaf</judul><arti>Tempat Tertinggi</arti><jumlah>0</jumlah><suara>008.mp3</suara>
+</surat>
+<surat>
+    <nomor>9</nomor>
+    <judul>At Taubah</judul><arti>Pengampunan</arti><jumlah>0</jumlah><suara>009.mp3</suara>
+</surat>
+<surat>
+    <nomor>10</nomor>
+    <judul>Yunus</judul><arti>Nabi Yunus A.S.</arti><jumlah>0</jumlah><suara>010.mp3</suara>
+</surat>
+<surat>
+    <nomor>11</nomor>
+    <judul>Hud</judul><arti>Nabi Huud A.S.</arti><jumlah>0</jumlah><suara>011.mp3</suara>
+</surat>
+<surat>
+    <nomor>12</nomor>
+    <judul> Yusuf</judul><arti>Nabi Yusuf A.S.</arti><jumlah>0</jumlah><suara>012.mp3</suara>
+</surat>
+<surat>
+    <nomor>13</nomor>
+    <judul>Ar Ra’d</judul><arti>Guruh</arti><jumlah>0</jumlah><suara>013.mp3</suara>
+</surat>
+<surat>
+	<nomor>14</nomor>
+	<judul>Ibrahim</judul><arti>Nabi Ibrahim A.S.</arti><jumlah> </jumlah><suara>014.mp3</suara>
+</surat>
+<surat>
+	<nomor>15</nomor>
+	<judul>Al Hijr</judul><arti>Daerah Pegunungan</arti><jumlah>0</jumlah><suara>015.mp3</suara>
+</surat>
+<surat>
+	<nomor>16</nomor>
+	<judul>An Nahl</judul><arti>Lebah</arti><jumlah>0</jumlah><suara>016.mp3</suara>
+</surat>
+<surat>
+	<nomor>17</nomor>
+	<judul>Al Israa’</judul><arti>Memperjalankan Di Malam Hari</arti><jumlah>0</jumlah><suara>017.mp3</suara>
+</surat>
+<surat>
+	<nomor>18</nomor>
+	<judul>Al Kahfi</judul><arti>Gua</arti><jumlah>0</jumlah><suara>018.mp3</suara>
+</surat>
+<surat>
+	<nomor>19</nomor>
+	<judul>Maryam</judul><arti>Maryam</arti><jumlah>0</jumlah><suara>019.mp3</suara>
+</surat>
+<surat>
+	<nomor>20</nomor>
+	<judul>Thaahaa</judul><arti>Thaahaa</arti><jumlah>0</jumlah><suara>020.mp3</suara>
+</surat>
+<surat>
+	<nomor>21</nomor>
+	<judul>Al Anbiyaa’</judul><arti>Kisah Para Nabi</arti><jumlah>0</jumlah><suara>021.mp3</suara>
+</surat>
+<surat>
+	<nomor>22</nomor>
+	<judul>Al Hajj</judul><arti>Ibadah Haji</arti><jumlah>0</jumlah><suara>022.mp3</suara>
+</surat>
+<surat>
+	<nomor>23</nomor>
+	<judul>Al Mu’minuun</judul><arti>Orang Mukmin</arti><jumlah>0</jumlah><suara>023.mp3</suara>
+</surat>
+<surat>
+	<nomor>24</nomor>
+	<judul>An Nuur</judul><arti>Cahaya</arti><jumlah>0</jumlah><suara>024.mp3 </suara>
+</surat>
+<surat>
+	<nomor>25</nomor>
+	<judul>Al Furqaan</judul><arti>Pembeda</arti><jumlah>0</jumlah><suara>025.mp3</suara>
+</surat>
+<surat>
+	<nomor>26</nomor>
+	<judul>Asy Syu’araa’</judul><arti>Penyair</arti><jumlah>0</jumlah><suara>026.mp3</suara>
+</surat>
+<surat>
+	<nomor>27</nomor>
+	<judul>An Naml</judul><arti>Semut</arti><jumlah>0</jumlah><suara>027.mp3</suara>
+</surat>
+<surat>
+	<nomor>28</nomor>
+	<judul>Al Qashash</judul><arti>Cerita</arti><jumlah>0</jumlah><suara>028.mp3</suara>
+</surat>
+<surat>
+	<nomor>29</nomor>
+	<judul>Al ‘Ankabuut</judul><arti>Laba-Laba</arti><jumlah>0</jumlah><suara>029.mp3 </suara>
+</surat>
+<surat>
+	<nomor>30</nomor>
+	<judul>Ar Ruum</judul><arti>Bangsa Rumawi</arti><jumlah>0</jumlah><suara>030.mp3</suara>
+</surat>
+<surat>
+	<nomor>31</nomor>
+	<judul>Luqman</judul><arti>Luqman</arti><jumlah>0</jumlah><suara>031.mp3</suara>
+</surat>
+<surat>
+	<nomor>32</nomor>
+	<judul>As Sajdah</judul><arti>Sujud</arti><jumlah>0</jumlah><suara>032.mp3</suara>
+</surat>
+<surat>
+	<nomor>33</nomor>
+	<judul>Al Ahzab</judul><arti>Golongan Yang Bersekutu</arti><jumlah>0</jumlah><suara>033.mp3</suara>
+</surat>
+<surat>
+	<nomor>34</nomor>
+	<judul>Saba’</judul><arti>Kaum Saba’</arti><jumlah>0</jumlah><suara>034.mp3</suara>
+</surat>
+<surat>
+	<nomor>35</nomor>
+	<judul>Faathir</judul><arti>Pencipta</arti><jumlah>0</jumlah><suara>035.mp3</suara>
+</surat>
+<surat>
+	<nomor>36</nomor>
+	<judul>Yaasiin</judul><arti>Yaasiin</arti><jumlah>0</jumlah><suara>036.mp3</suara>
+</surat>
+<surat>
+	<nomor>37</nomor>
+	<judul>Ash Shaaffaat</judul><arti>Yang Bershaf-Shaf</arti><jumlah>0</jumlah><suara>037.mp3</suara>
+</surat>
+<surat>
+	<nomor>38</nomor>
+	<judul>Shaad</judul><arti>Shaad</arti><jumlah>0</jumlah><suara>038.mp3</suara>
+</surat>
+<surat>
+	<nomor>39</nomor>
+	<judul>Az Zumar</judul><arti>Rombongan-Rombongan</arti><jumlah>0</jumlah><suara>039.mp3</suara>
+</surat>
+<surat>
+	<nomor>40</nomor>
+	<judul>Al Mu’min</judul><arti>Orang Yang Beriman</arti><jumlah>0</jumlah><suara>040.mp3</suara>
+</surat>
+<surat>
+	<nomor>41</nomor>
+	<judul>Fushshilat</judul><arti>Yang Dijelaskan</arti><jumlah>0</jumlah><suara>041.mp3</suara>
+</surat>
+<surat>
+	<nomor>42</nomor>
+	<judul>Asy Syuura</judul><arti>Musyawarah</arti><jumlah>0</jumlah><suara>042.mp3 </suara>
+</surat>
+<surat>
+	<nomor>43</nomor>
+	<judul>Az Zukhruf</judul><arti>Perhiasan</arti><jumlah>0</jumlah><suara>043.mp3</suara>
+</surat>
+<surat>
+	<nomor>44</nomor>
+	<judul>Ad Dukhaan</judul><arti>Kabut</arti><jumlah>0</jumlah><suara>044.mp3</suara>
+</surat>
+<surat>
+	<nomor>45</nomor>
+	<judul>Al Jaatsiyah</judul><arti>Yang Berlutut</arti><jumlah>0</jumlah><suara>045.mp3</suara>
+</surat>
+<surat>
+	<nomor>46</nomor>
+	<judul>Al Ahqaaf</judul><arti>Bukit Pasir</arti><jumlah>0</jumlah><suara>046.mp3</suara>
+</surat>
+<surat>
+	<nomor>47</nomor>
+	<judul>Muhammad</judul><arti>Nabi Muhammad SAW</arti><jumlah>0</jumlah><suara>047.mp3</suara>
+</surat>
+<surat>
+	<nomor>48</nomor>
+	<judul>Al Fath  </judul><arti>Kemenangan</arti><jumlah>0</jumlah><suara>048.mp3</suara>
+</surat>
+<surat>
+	<nomor>49</nomor>
+	<judul>Al Hujuraat</judul><arti>Kamar-Kamar</arti><jumlah>0</jumlah><suara>049.mp3</suara>
+</surat>
+<surat>
+	<nomor>50</nomor>
+	<judul>Qaaf</judul><arti>Qaaf</arti><jumlah>0</jumlah><suara>050.mp3</suara>
+</surat>
+<surat>
+	<nomor>51</nomor>
+	<judul>Adz Dzaariyaat</judul><arti>Angin Yang Menerbangkan</arti><jumlah>0</jumlah><suara>051.mp3</suara>
+</surat>
+<surat>
+	<nomor>52</nomor>
+	<judul>Ath Thuur</judul><arti>Bukit</arti><jumlah>0</jumlah><suara>052.mp3</suara>
+</surat>
+<surat>
+	<nomor>53</nomor>
+	<judul>An Najm</judul><arti>Bintang</arti><jumlah>0</jumlah><suara>053.mp3</suara>
+</surat>
+<surat>
+	<nomor>54</nomor>
+	<judul>Al Qamar</judul><arti>Bulan</arti><jumlah>0</jumlah><suara>054.mp3</suara>
+</surat>
+<surat>
+	<nomor>55</nomor>
+	<judul>Ar Rahmaan</judul><arti> </arti><jumlah>0</jumlah><suara>(Yang Maha Pemurah)055.mp3</suara>
+</surat>
+<surat>
+	<nomor>56</nomor>
+	<judul>Al Waaqi’ah</judul><arti>Hari Kiamat</arti><jumlah>0</jumlah><suara>056.mp3</suara>
+</surat>
+<surat>
+	<nomor>57</nomor>
+	<judul>Al Hadiid</judul><arti>Besi</arti><jumlah>0</jumlah><suara>057.mp3</suara>
+</surat>
+<surat>
+	<nomor>58</nomor>
+	<judul>Al Mujaadilah</judul><arti>Wanita Yang Mengajukan Gugatan</arti><jumlah>0</jumlah><suara>058.mp3</suara>
+</surat>
+<surat>
+	<nomor>59</nomor>
+	<judul>Al Hasyr</judul><arti>Pengusiran</arti><jumlah>0</jumlah><suara>059.mp3</suara>
+</surat>
+<surat>
+	<nomor>60</nomor>
+	<judul>Al Mumtahanah</judul><arti>Wanita Yang Diuji</arti><jumlah>0</jumlah><suara>060.png</suara>
+</surat>
+<surat>
+	<nomor>61</nomor>
+	<judul>Ash Shaff</judul><arti>Barisan</arti><jumlah>0</jumlah><suara>061.mp3</suara>
+</surat>
+<surat>
+	<nomor>62</nomor>
+	<judul>Al Jumu’ah</judul><arti>Hari Jum’at</arti><jumlah>0</jumlah><suara>062.mp3</suara>
+</surat>
+<surat>
+	<nomor>63</nomor>
+	<judul>Al-Munaafiquun</judul><arti>Orang-Orang Munafik</arti><jumlah>0</jumlah><suara>063.mp3</suara>
+</surat>
+<surat>
+	<nomor>64</nomor>
+	<judul>At Taghaabun</judul><arti>Hari Ditampakkan Kesalahan-Kesalahan</arti><jumlah>0</jumlah><suara>064.mp3</suara>
+</surat>
+<surat>
+	<nomor>65</nomor>
+	<judul>Ath Thalaaq</judul><arti>Talak</arti><jumlah>0</jumlah><suara>065.mp3</suara>
+</surat>
+<surat>
+	<nomor>66</nomor>
+	<judul>At Tahrim</judul><arti>Mengharamkan</arti><jumlah>0</jumlah><suara>066.mp3</suara>
+</surat>
+<surat>
+	<nomor>67</nomor>
+	<judul>Al Mulk</judul><arti>Kerajaan</arti><jumlah>0</jumlah><suara>067.mp3</suara>
+</surat>
+<surat>
+	<nomor>68</nomor>
+	<judul>Al Qalam</judul><arti>Pena</arti><jumlah>0</jumlah><suara>068.mp3</suara>
+</surat>
+<surat>
+	<nomor>69</nomor>
+	<judul>Al Haaqqah</judul><arti>Kiamat</arti><jumlah>0</jumlah><suara>069.mp3</suara>
+</surat>
+<surat>
+	<nomor>70</nomor>
+	<judul>Al Ma’arij</judul><arti>Tempat-Tempat Naik</arti><jumlah>0</jumlah><suara>070.mp3</suara>
+</surat>
+<surat>
+	<nomor>71</nomor>
+	<judul>Nuh</judul><arti>Nabi Nuh A.S</arti><jumlah>0</jumlah><suara>071.mp3</suara>
+</surat>
+<surat>
+	<nomor>72</nomor>
+	<judul>Al Jin</judul><arti>Jin</arti><jumlah>0</jumlah><suara>072.mp3</suara>
+</surat>
+<surat>
+	<nomor>73</nomor>
+	<judul>Al Muzzammil</judul><arti>Yang Berselimut</arti><jumlah>0</jumlah><suara>073.mp3</suara>
+</surat>
+
+<surat>
+	<nomor>74</nomor>
+	<judul>Al Muddatstsir </judul><arti>Orang Yang Berselimut</arti><jumlah></jumlah><suara>074.mp3</suara>
+</surat>
+<surat>
+	<nomor>75</nomor>
+	<judul>Al Qiyaamah</judul><arti>Hari Kiamat</arti><jumlah>0</jumlah><suara>075.mp3</suara>
+</surat>
+<surat>
+	<nomor>76</nomor>
+	<judul>Al Insaan</judul><arti>Manusia</arti><jumlah>0</jumlah><suara>076.mp3</suara>
+</surat>
+<surat>
+	<nomor>77</nomor>
+	<judul>Al Mursalaat</judul><arti>Malaikat-Malaikat Yang Diutus</arti><jumlah>0</jumlah><suara>077.mp3</suara>
+</surat>
+<surat>
+	<nomor>78</nomor>
+	<judul>An Naba´</judul><arti>Berita Besar</arti><jumlah>0</jumlah><suara>078.mp3</suara>
+</surat>
+<surat>
+	<nomor>79</nomor>
+	<judul>An Naazi´</judul><arti>Malaikat-Malaikat Yang Mencabut</arti><jumlah>0</jumlah><suara>079.mp3</suara>
+</surat>
+<surat>
+	<nomor>80</nomor>
+	<judul>‘Abasa</judul><arti>Bermuka Masam</arti><jumlah>0</jumlah><suara>080.mp3</suara>
+</surat>
+<surat>
+	<nomor>81</nomor>
+	<judul>At Takwir</judul><arti>Menggulung</arti><jumlah>0</jumlah><suara>081.mp3</suara>
+</surat>
+<surat>
+	<nomor>82</nomor>
+	<judul>Al Infithaar</judul><arti>Terbelah</arti><jumlah>0</jumlah><suara>082.mp3</suara>
+</surat>
+<surat>
+	<nomor>83</nomor>
+	<judul>Al Muthaffifiin</judul><arti>Orang-Orang Yang Curang</arti><jumlah>0</jumlah><suara>083.mp3</suara>
+</surat>
+<surat>
+	<nomor>84</nomor>
+	<judul>Al Insyiqaaq</judul><arti>Terbelah</arti><jumlah>0</jumlah><suara>084.mp3</suara>
+</surat>
+<surat>
+	<nomor>85</nomor>
+	<judul>Al Buruuj</judul><arti>Gugusan Bintang</arti><jumlah>0</jumlah><suara>085.mp3</suara>
+</surat>
+<surat>
+	<nomor>86</nomor>
+	<judul>Ath Thaariq</judul><arti>Yang Datang Di Malam Hari</arti><jumlah>0</jumlah><suara>086.mp3</suara>
+</surat>
+<surat>
+	<nomor>87</nomor>
+	<judul>Al A´Laa</judul><arti>Yang Paling Tinggi</arti><jumlah>0</jumlah><suara>087.mp3</suara>
+</surat>
+<surat>
+	<nomor>88</nomor>
+	<judul>Al Ghaasyiyah</judul><arti>Hari Kiamat</arti><jumlah>0</jumlah><suara>088.mp3</suara>
+</surat>
+<surat>
+	<nomor>89</nomor>
+	<judul>Al Fajr</judul><arti>Fajar</arti><jumlah>0</jumlah><suara>089.mp3</suara>
+</surat>
+<surat>
+	<nomor>90</nomor>
+	<judul>Al Balad</judul><arti>Negeri</arti><jumlah>0</jumlah><suara>090.mp3</suara>
+</surat>
+<surat>
+	<nomor>91</nomor>
+	<judul>Asy Syams</judul><arti>Matahari</arti><jumlah>0</jumlah><suara>091.mp3</suara>
+</surat>
+<surat>
+	<nomor>92</nomor>
+	<judul>Al Lail</judul><arti>Malam</arti><jumlah>0</jumlah><suara>092.mp3</suara>
+</surat>
+<surat>
+	<nomor>93</nomor>
+	<judul>Adh Dhuhaa</judul><arti>Waktu Dhuha</arti><jumlah>0</jumlah><suara>093.mp3</suara>
+</surat>
+<surat>
+	<nomor>94</nomor>
+	<judul>Alam Nasyrah</judul><arti>Bukankah Kami Telah Melapangkan</arti><jumlah>0</jumlah><suara>094.mp3</suara>
+</surat>
+<surat>
+	<nomor>95</nomor>
+	<judul>At Tiin</judul><arti>Buah Tin</arti><jumlah>0</jumlah><suara>095.mp3</suara>
+</surat>
+<surat>
+	<nomor>96</nomor>
+	<judul>Al ‘Alaq</judul><arti>Segumpal Darah</arti><jumlah>0</jumlah><suara>096.mp3</suara>
+</surat>
+<surat>
+	<nomor>97</nomor>
+	<judul>Al Qadr</judul><arti>Kemuliaan</arti><jumlah>0</jumlah><suara>097.mp3</suara>
+</surat>
+<surat>
+	<nomor>98</nomor>
+	<judul>Al Bayyinah</judul><arti>Bukti Yang Nyata</arti><jumlah>0</jumlah><suara>098.mp3</suara>
+</surat>
+<surat>
+	<nomor>99</nomor>
+	<judul>Al Zalzalah</judul><arti>Goncangan</arti><jumlah>0</jumlah><suara>99.mp3</suara>
+</surat>
+<surat>
+	<nomor>100</nomor>
+	<judul>Al ‘Aadiyaat</judul><arti>Kuda Perang Yang Berlari Kencang</arti><jumlah>0</jumlah><suara>100.mp3</suara>
+</surat>
+<surat>
+	<nomor>101</nomor>
+	<judul>Al Qaari’ah</judul><arti>Hari Kiamat</arti><jumlah>0</jumlah><suara>101.mp3</suara>
+</surat>
+<surat>
+	<nomor>102</nomor>
+	<judul>At Takaatsur</judul><arti>Bermegah-Megahan</arti><jumlah>0</jumlah><suara>102.mp3</suara>
+</surat>
+<surat>
+	<nomor>103</nomor>
+	<judul>Al ‘Ashr</judul><arti>Masa</arti><jumlah></jumlah><suara>103.mp3</suara>
+</surat>
+<surat>
+	<nomor>104</nomor>
+	<judul>Al Humazah</judul><arti>Pengumpat</arti><jumlah>0</jumlah><suara>104.mp3</suara>
+</surat>
+<surat>
+	<nomor>105</nomor>
+	<judul>Al Fiil</judul><arti>Gajah</arti><jumlah>0</jumlah><suara>105.mp3</suara>
+</surat>
+<surat>
+	<nomor>106</nomor>
+	<judul>Quraisy</judul><arti>Suku Quraisy</arti><jumlah>0</jumlah><suara>106.mp3</suara>
+</surat>
+<surat>
+	<nomor>107</nomor>
+	<judul>Al Maa’uun</judul><arti>Barang-Barang Yang Berguna</arti><jumlah>0</jumlah><suara>107.mp3</suara>
+</surat>
+<surat>
+	<nomor>108</nomor>
+	<judul>Al Kautsar</judul><arti>Nikmat Yang Banyak</arti><jumlah>0</jumlah><suara>108.mp3</suara>
+</surat>
+<surat>
+	<nomor>109</nomor>
+	<judul>Al Kaafiruun</judul><arti>Orang-Orang Kafir</arti><jumlah>0</jumlah><suara>109.mp3</suara>
+</surat>
+<surat>
+	<nomor>110</nomor>
+	<judul>An Nashr</judul><arti>Pertolongan</arti><jumlah>0</jumlah><suara>110.mp3</suara>
+</surat>
+<surat>
+	<nomor>111</nomor>
+	<judul>Al Lahab</judul><arti>Gejolak Api</arti><jumlah>0</jumlah><suara>111.mp3</suara>
+</surat>
+<surat>
+	<nomor>112</nomor>
+	<judul>Al Ikhlas</judul><arti>Memurnikan Keesaan Allah</arti><jumlah>0</jumlah><suara>112.mp3</suara>
+</surat>
+<surat>
+	<nomor>113</nomor>
+	<judul>Al Falaq</judul><arti>Waktu Subuh</arti><jumlah>0</jumlah><suara>113.mp3</suara>
+</surat>
+<surat>
+	<nomor>114</nomor>
+	<judul>An Naas</judul><arti>Manusia</arti><jumlah>0</jumlah><suara>114.mp3</suara>
+</surat>
+</resource>
