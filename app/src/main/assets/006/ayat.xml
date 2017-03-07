@@ -1,6 +1,663 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resource>
     <ayat>
-        <ke>1</ke><gambar>2_1.png</gambar><arti></arti>
-    </ayat>
+        <ke>1</ke><gambar>6_1.png</gambar>
+        <arti>Segala puji bagi Allah Yang telah menciptakan langit dan bumi dan mengadakan gelap dan terang, namun orang-orang yang kafir mempersekutukan (sesuatu) dengan Tuhan mereka.</arti>
+	</ayat>
+	<ayat>
+        <ke>2</ke><gambar>6_2.png</gambar>
+        <arti>Dialah Yang menciptakan kamu dari tanah, sesudah itu ditentukannya ajal (kematianmu), dan ada lagi suatu ajal yang ada pada sisi-Nya (yang Dia sendirilah mengetahuinya), kemudian kamu masih ragu-ragu (tentang berbangkit itu).</arti>
+	</ayat>
+	<ayat>
+        <ke>3</ke><gambar>6_3.png</gambar>
+        <arti>Dan Dialah Allah (yang disembah), baik di langit maupun di bumi; Dia mengetahui apa yang kamu rahasiakan dan apa yang kamu lahirkan dan mengetahui (pula) apa yang kamu usahakan.</arti>
+	</ayat>
+	<ayat>
+        <ke>4</ke><gambar>6_4.png</gambar>
+        <arti>Dan tidak ada suatu ayatpun dari ayat-ayat Tuhan sampai kepada mereka, melainkan mereka selalu berpaling dari padanya (mendustakannya).</arti>
+	</ayat>
+	<ayat>
+        <ke>5</ke><gambar>6_5.png</gambar>
+        <arti>Sesungguhnya mereka telah mendustakan yang haq (Al-Quraan) tatkala sampai kepada mereka, maka kelak akan sampai kepada mereka (kenyataan dari) berita-berita yang selalu mereka perolok-olokkan.</arti>
+	</ayat>
+	<ayat>
+        <ke>6</ke><gambar>6_6.png</gambar>
+        <arti>Apakah mereka tidak memperhatikan berapa banyak generasi yang telah Kami binasakan sebelum mereka, padahal (generasi itu) telah Kami teguhkan kedudukan mereka di muka bumi, yaitu keteguhan yang belum pernah Kami berikan kepadamu, dan Kami curahkan hujan yang lebat atas mereka dan Kami jadikan sungai-sungai mengalir di bawah mereka, kemudian Kami binasakan mereka karena dosa mereka sendiri, dan Kami ciptakan sesudah mereka generasi yang lain.</arti>
+	</ayat>
+	<ayat>
+        <ke>7</ke><gambar>6_7.png</gambar>
+        <arti>Dan kalau Kami turunkan kepadamu tulisan di atas kertas, lalu mereka dapat menyentuhnya dengan tangan mereka sendiri, tentulah orang-orang kafir itu berkata: "Ini tidak lain hanyalah sihir yang nyata."</arti>
+	</ayat>
+	<ayat>
+        <ke>8 </ke><gambar>6_8.png</gambar>
+        <arti>Dan mereka berkata: "Mengapa tidak diturunkan kepadanya (Muhammad) malaikat?" dan kalau Kami turunkan (kepadanya) malaikat, tentulah selesai urusan itu, kemudian mereka tidak diberi tangguh (sedikitpun).</arti>
+	</ayat>
+	<ayat>
+        <ke>9</ke><gambar>6_9.png</gambar>
+        <arti>Dan kalau Kami jadikan rasul itu malaikat, tentulah Kami jadikan dia seorang laki-laki dan (kalau Kami jadikan ia seorang laki-laki), tentulah Kami meragu-ragukan atas mereka apa yang mereka ragu-ragukan atas diri mereka sendiri.</arti>
+	</ayat>
+	<ayat>
+        <ke>10</ke><gambar>6_10.png</gambar>
+        <arti>Dan sungguh telah diperolok-olokkan beberapa rasul sebelum kamu, maka turunlah kepada orang-orang yang mencemoohkan di antara mereka balasan (azab) olok-olokan mereka.</arti>
+	</ayat>
+	<ayat>
+        <ke>11</ke><gambar>6_11.png</gambar>
+        <arti>Katakanlah: "Berjalanlah di muka bumi, kemudian perhatikanlah bagaimana kesudahan orang-orang yang mendustakan itu."</arti>
+	</ayat>
+	<ayat>
+        <ke>12</ke><gambar>6_12.png</gambar>
+        <arti>Katakanlah: "Kepunyaan siapakah apa yang ada di langit dan di bumi." Katakanlah: "Kepunyaan Allah." Dia telah menetapkan atas Diri-Nya kasih sayang. Dia sungguh akan menghimpun kamu pada hari kiamat yang tidak ada keraguan padanya. Orang-orang yang meragukan dirinya mereka itu tidak beriman.</arti>
+	</ayat>
+	<ayat>
+        <ke>13</ke><gambar>6_13.png</gambar>
+        <arti>Dan kepunyaan Allah-lah segala yang ada pada malam dan siang. Dan Dialah Yang Maha Mendengar lagi Maha Mengetahui.</arti>
+	</ayat>
+	<ayat>
+        <ke>14</ke><gambar>6_14.png</gambar>
+        <arti>Katakanlah: "Apakah akan aku jadikan pelindung selain dari Allah yang menjadikan langit dan bumi, padahal Dia memberi makan dan tidak memberi makan?" Katakanlah: "Sesungguhnya aku diperintah supaya aku menjadi orang yang pertama kali menyerah diri (kepada Allah), dan jangan sekali-kali kamu masuk golongan orang musyrik."</arti>
+	</ayat>
+	<ayat>
+        <ke>15</ke><gambar>6_15.png</gambar>
+        <arti>Katakanlah: "Sesungguhnya aku takut akan azab hari yang besar (hari kiamat), jika aku mendurhakai Tuhanku."</arti>
+	</ayat>
+	<ayat>
+        <ke>16</ke><gambar>6_16.png</gambar>
+        <arti>Barang siapa yang dijauhkan azab dari padanya pada hari itu, maka sungguh Allah telah memberikan rahmat kepadanya. Dan itulah keberuntungan yang nyata.</arti>
+	</ayat>
+	<ayat>
+        <ke>17</ke><gambar>6_17.png</gambar>
+        <arti>Dan jika Allah menimpakan sesuatu kemudharatan kepadamu, maka tidak ada yang menghilangkannya melainkan Dia sendiri. Dan jika Dia mendatangkan kebaikan kepadamu, maka Dia Maha Kuasa atas tiap-tiap sesuatu.</arti>
+	</ayat>
+	<ayat>
+        <ke>18</ke><gambar>6_18.png</gambar>
+        <arti>Dan Dialah yang berkuasa atas sekalian hamba-hamba-Nya. Dan Dialah Yang Maha Bijaksana lagi Maha Mengetahui.</arti>
+	</ayat>
+	<ayat>
+        <ke>19</ke><gambar>6_19.png</gambar>
+        <arti>Katakanlah: "Siapakah yang lebih kuat persaksiannya?" Katakanlah: "Allah". Dia menjadi saksi antara aku dan kamu. Dan Al-Qur'an ini diwahyukan kepadaku supaya dengan dia aku memberi peringatan kepadamu dan kepada orang-orang yang sampai Al-Quraan (kepadanya). Apakah sesungguhnya kamu mengakui bahwa ada tuhan-tuhan lain di samping Allah?" Katakanlah: "Aku tidak mengakui." Katakanlah: "Sesungguhnya Dia adalah Tuhan Yang Maha Esa dan sesungguhnya aku berlepas diri dari apa yang kamu persekutukan (dengan Allah)".</arti>
+	</ayat>
+	<ayat>
+        <ke>20</ke><gambar>6_20.png</gambar>
+        <arti>Orang-orang yang telah Kami berikan kitab kepadanya, mereka mengenalnya (Muhammad) seperti mereka mengenal anak-anaknya sendiri. Orang-orang yang merugikan dirinya, mereka itu tidak beriman (kepada Allah).</arti>
+	</ayat>
+	<ayat>
+        <ke>21</ke><gambar>6_21.png</gambar>
+        <arti>Dan siapakah yang lebih aniaya daripada orang yang membuat-buat suatu kedustaan terhadap Allah, atau mendustakan ayat-ayat-Nya? Sesungguhnya orang-orang yang aniaya itu tidak mendapat keberuntungan.</arti>
+	</ayat>
+	<ayat>
+        <ke>22</ke><gambar>6_22.png</gambar>
+        <arti>Dan (ingatlah), hari yang di waktu itu Kami menghimpun mereka semuanyakemudian Kami berkata kepada orang-orang musyrik: "Di manakah sembahan-sembahan kamu yang dulu kamu katakan (sekutu-sekutu) Kami?".</arti>
+	</ayat>
+	<ayat>
+        <ke>23</ke><gambar>6_23.png</gambar>
+        <arti>Kemudian tiadalah fitnah mereka, kecuali mengatakan: "Demi Allah, Tuhan kami, tiadalah kami mempersekutukan Allah".</arti>
+	</ayat>
+	<ayat>
+        <ke>24</ke><gambar>6_24.png</gambar>
+        <arti>Lihatlah bagaimana mereka telah berdusta kepada diri mereka sendiri dan hilanglah daripada mereka sembahan-sembahan yang dahulu mereka ada-adakan.</arti>
+	</ayat>
+	<ayat>
+        <ke>25</ke><gambar>6_25.png</gambar>
+        <arti>Dan di antara mereka ada orang yang mendengarkani (bacaan)mu, padahal Kami telah meletakkan tutupan di atas hati mereka (sehingga mereka tidak) memahaminya dan (Kami letakkan) sumbatan di telinganya. Dan jikapun mereka melihat segala tanda (kebenaran), mereka tetap tidak mau beriman kepadanya. Sehingga apabila mereka datang kepadamu untuk membantahmu, orang-orang kafir itu berkata: "Al-Quraan ini tidak lain hanyalah dongengan orang-orang dahulu."</arti>
+	</ayat>
+	<ayat>
+        <ke>26</ke><gambar>6_26.png</gambar>
+        <arti>Dan mereka melarang (orang lain) mendengarkan Al-Quraan dan mereka sendiri menjauhkan diri daripadanya, dan mereka hanyalah membinasakan diri mereka sendiri, sedang mereka tidak menyadari.</arti>
+	</ayat>
+	<ayat>
+        <ke>27</ke><gambar>6_27.png</gambar>
+        <arti>Dan jika kamu (Muhammad) melihat ketika mereka dihadapkan ke neraka, lalu mereka berkata: "Kiranya kami dikembalikan (ke dunia) dan tidak mendustakan ayat-ayat Tuhan kami, serta menjadi orang-orang yang beriman", (tentulah kamu melihat suatu peristiwa yang mengharukan).</arti>
+	</ayat>
+	<ayat>
+        <ke>28</ke><gambar>6_28.png</gambar>
+        <arti>Tetapi (sebenarnya) telah nyata bagi mereka kejahatan yang mereka dahulu selalu menyembunyikannya. Sekiranya mereka dikembalikan ke dunia, tentulah mereka kembali kepada apa yang mereka telah dilarang mengerjakannya. Dan sesungguhnya mereka itu adalah pendusta belaka.</arti>
+	</ayat>
+	<ayat>
+        <ke>29</ke><gambar>6_29.png</gambar>
+        <arti>Dan tentu mereka akan mengatakan (pula): "Hidup hanyalah kehidupan kita di dunia ini saja, dan kita sekali-sekali tidak akan dibangkitkan".</arti>
+	</ayat>
+	<ayat>
+        <ke>30</ke><gambar>6_30.png</gambar>
+        <arti>Dan seandainya kamu melihat ketika mereka dihadapkan kepada Tuhannya (tentulah kamu melihat peristiwa yang mengharukan). Berfirman Allah: "Bukankah (kebangkitan ini benar?" Mereka menjawab: "Sungguh benar, demi Tuhan kami". Berfirman Allah: "Karena itu rasakanlah azab ini, disebabkan kamu mengingkari(nya)".</arti>
+	</ayat>
+	<ayat>
+        <ke>31</ke><gambar>6_31.png</gambar>
+        <arti>Sungguh telah rugilah orang-orang yang mendustakan pertemuan mereka dengan Tuhan; sehingga apabila kiamat datang kepada mereka dengan tiba-tiba, mereka berkata: "Alangkah besarnya penyesalan kami, terhadap kelalaian kami tentang kiamat itu !", sambil mereka memikul dosa-dosa di atas punggungnya. Ingatlah, amat buruklah apa yang mereka pikul itu.</arti>
+	</ayat>
+	<ayat>
+        <ke>32</ke><gambar>6_32.png</gambar>
+        <arti>Dan tiadalah kehidupan dunia ini, selain dari main-main dan senda gurau belaka. Dan sungguh kampung akhirat itu lebih baik bagi orang-orang yang bertaqwa. Maka tidakkah kamu memahaminya?</arti>
+	</ayat>
+	<ayat>
+        <ke>33</ke><gambar>6_33.png</gambar>
+        <arti>Sesungguhnya Kami mengetahui bahwasanya apa yang mereka katakan itu menyedihkan hatimu, (janganlah kamu bersedih hati), karena mereka sebenarnya bukan mendustakan kamu, akan tetapi orang-orang yang zalim itu mengingkari ayat-ayat Allah.</arti>
+	</ayat>
+	<ayat>
+        <ke>34</ke><gambar>6_34.png</gambar>
+        <arti>Dan sesungguhnya telah didustakan (pula) rasul-rasul sebelum kamu, akan tetapi mereka sabar terhadap pendustaan dan penganiayaan (yang dilakukan) terhadap mereka, sampai datang pertolongan Allah kepada mereka. Tak ada seorangpun yang dapat merobah kalimat-kalimat (janji-janji) Allah. Dan sesungguhnya telah datang kepadamu sebahagian dari berita rasul-rasul itu.</arti>
+	</ayat>
+	<ayat>
+        <ke>35</ke><gambar>6_35.png</gambar>
+        <arti>Dan jika perpalingan mereka (darimu) terasa amat berat bagimu, maka jika kamu dapat membuat lobang di bumi atau tangga ke langit lalu kamu dapat mendatangkan mu'jizat kepada mereka (maka buatlah). Kalau Allah menghendaki, tentu saja Allah menjadikan mereka semua dalam petunjuk sebab itu janganlah sekali-kali kamu termasuk orang-orang yang jahil</arti>
+	</ayat>
+	<ayat>
+        <ke>36</ke><gambar>6_36.png</gambar>
+        <arti>Hanya mereka yang mendengar sajalah yang mematuhi (seruan Allah), dan orang-orang yang mati (hatinya), akan dibangkitkan oleh Allah, kemudian kepadaNyalah mereka dikembalikan.</arti>
+	</ayat>
+	<ayat>
+        <ke>37</ke><gambar>6_37.png</gambar>
+        <arti>Dan mereka (orang-orang musyrik Mekah) berkata: "Mengapa tidak diturunkan kepadanya (Muhammad) suatu mu'jizat dari Tuhannya?" Katakanlah: "Sesungguhnya Allah kuasa menurunkan suatu mu'jizat, tetapi kebanyakan mereka tidak mengetahui."</arti>
+	</ayat>
+	<ayat>
+        <ke>38</ke><gambar>6_38.png</gambar>
+        <arti>an tiadalah binatang-binatang yang ada di bumi dan burung-burung yang terbang dengan kedua sayapnya, melainkan umat (juga) seperti kamu. Tiadalah Kami alpakan sesuatupun dalam Al-Kitab, kemudian kepada Tuhanlah mereka dihimpunkan.</arti>
+	</ayat>
+	<ayat>
+        <ke>39</ke><gambar>6_39.png</gambar>
+        <arti>Dan orang-orang yang mendustakan ayat-ayat Kami adalah pekak, bisu dan berada dalam gelap gulita. Barangsiapa yang dikehendaki Allah (kesesatannya), niscaya disesatkan-Nya. Dan barangsiapa yang dikehendaki Allah (untuk diberi-Nya petunjuk), niscaya Dia menjadikan-Nya berada di atas jalan yang lurus.</arti>
+	</ayat>
+	<ayat>
+        <ke>40</ke><gambar>6_40.png</gambar>
+        <arti>Katakanlah: "Terangkanlah kepadaku jika datang siksaan Allah kepadamu, atau datang kepadamu hari kiamat, apakah kamu menyeru (tuhan) selain Allah; jika kamu orang-orang yang benar!"</arti>
+	</ayat>
+	<ayat>
+        <ke>41</ke><gambar>6_41.png</gambar>
+        <arti>(Tidak), tetapi hanya Dialah yang kamu seru, maka Dia menghilangkan bahaya yang karenanya kamu berdo'a kepadaNya, jika Dia menghendaki, dan kamu tinggalkan sembahan-sembahan yang kamu sekutukan (dengan Allah).</arti>
+	</ayat>
+	<ayat>
+        <ke>42</ke><gambar>6_42.png</gambar>
+        <arti>Dan sesungguhnya Kami telah mengutus (rasul-rasul) kepada umat-umat yang sebelum kamu, kemudian Kami siksa mereka dengan (menimpakan) kesengsaraan dan kemelaratan, supaya mereka memohon (kepada Allah) dengan tunduk merendahkan diri.</arti>
+	</ayat>
+	<ayat>
+        <ke>43</ke><gambar>6_43.png</gambar>
+        <arti>Maka mengapa mereka tidak memohon (kepada Allah) dengan tunduk merendahkan diri ketika datang siksaan Kami kepada mereka, bahkan hati mereka telah menjadi keras, dan syaitanpun menampakkan kepada mereka kebagusan apa yang selalu mereka kerjakan.</arti>
+	</ayat>
+	<ayat>
+        <ke>44</ke><gambar>6_44.png</gambar>
+        <arti>Maka tatkala mereka melupakan peringatan yang telah diberikan kepada mereka, Kamipun membukakan semua pintu-pintu kesenangan untuk mereka; sehingga apabila mereka bergembira dengan apa yang telah diberikan kepada mereka, Kami siksa mereka dengan sekonyong-konyong, maka ketika itu mereka terdiam berputus asa.</arti>
+	</ayat>
+	<ayat>
+        <ke>45</ke><gambar>6_45.png</gambar>
+        <arti>Maka orang-orang yang zalim itu dimusnahkan sampai ke akar-akarnya. Segala puji bagi Allah, Tuhan semesta alam.</arti>
+	</ayat>
+	<ayat>
+        <ke>46</ke><gambar>6_46.png</gambar>
+        <arti>Katakanlah: "Terangkanlah kepadaku jika Allah mencabut pendengaran dan penglihatan serta menutup hatimu, siapakah tuhan selain Allah yang kuasa mengembalikannya kepadamu?" Perhatikanlah bagaimana Kami berkali-kali memperlihatkan tanda-tanda kebesaran (Kami), kemudian mereka tetap berpaling (juga).</arti>
+	</ayat>
+	<ayat>
+        <ke>47</ke><gambar>6_47.png</gambar>
+        <arti>Katakanlah: "Terangkanlah kepadaku jika datang siksaan Allah kepadamu dengan sekonyong-konyong, atau terang-terangan, maka adakah yang dibinasakan (Allah) selain dari orang yang zalim?"</arti>
+	</ayat>
+	<ayat>
+        <ke>48</ke><gambar>6_48.png</gambar>
+        <arti>Dan tidaklah Kami mengutus para rasul itu melainkan untuk memberikan kabar gembira dan memberi peringatan. Barangsiapa yang beriman dan mengadakan perbaikan, maka tak ada kekhawatiran terhadap mereka dan tidak pula mereka bersedih hati.</arti>
+	</ayat>
+	<ayat>
+        <ke>49</ke><gambar>6_49.png</gambar>
+        <arti>Dan orang-orang yang mendustakan ayat-ayat Kami, mereka akan ditimpa siksa disebabkan mereka selalu berbuat fasik.</arti>
+	</ayat>
+	<ayat>
+        <ke>50</ke><gambar>6_50.png</gambar>
+        <arti>Katakanlah: Aku tidak mengatakan kepadamu, bahwa perbendaharaan Allah ada padaku, dan tidak (pula) aku mengetahui yang ghaib dan tidak (pula) aku mengatakan kepadamu bahwa aku seorang malaikat. Aku tidak mengikuti kecuali apa yang diwahyukan kepadaku. Katakanlah: "Apakah sama orang yang buta dengan yang melihat?" Maka apakah kamu tidak memikirkan(nya)?"</arti>
+	</ayat>
+	<ayat>
+        <ke>51</ke><gambar>6_51.png</gambar>
+        <arti>Dan berilah peringatan dengan apa yang diwahyukan itu kepada orang-orang yang takut akan dihimpunkan kepada Tuhannya (pada hari kiamat), sedang bagi mereka tidak ada seorang pelindung dan pemberi syafa'atpun selain daripada Allah, agar mereka bertakwa.</arti>
+	</ayat>
+	<ayat>
+        <ke>52</ke><gambar>6_52.png</gambar>
+        <arti>Dan janganlah kamu mengusir orang-orang yang menyeru Tuhannya di pagi dan petang hari, sedang mereka menghendaki keridhaanNya. Kamu tidak memikul tanggung jawab sedikitpun terhadap perbuatan mereka dan merekapun tidak memikul tanggung jawab sedikitpun terhadap perbuatanmu, yang menyebabkan kamu (berhak) mengusir mereka, (sehingga kamu termasuk orang-orang yang zalim).</arti>
+	</ayat>
+	<ayat>
+        <ke>53</ke><gambar>6_53.png</gambar>
+        <arti>Dan demikianlah telah Kami uji sebahagian mereka (orang-orang kaya) dengan sebahagian mereka (orang-orang miskin), supaya (orang-orang yang kaya itu) berkata: "Orang-orang semacam inikah di antara kita yang diberi anugerah Allah kepada mereka?" (Allah berfirman): "Tidakkah Allah lebih mengetahui tentang orang-orang yang bersyukur (kepadaNya) ?"</arti>
+	</ayat>
+	<ayat>
+        <ke>54</ke><gambar>6_54.png</gambar>
+        <arti>Apabila orang-orang yang beriman kepada ayat-ayat Kami itu datang kepadamu, maka katakanlah: "Salaamun alaikum. Tuhanmu telah menetapkan atas diri-Nya kasih sayang, (yaitu) bahwasanya barang siapa yang berbuat kejahatan di antara kamu lantaran kejahilan, kemudian ia bertaubat setelah mengerjakannya dan mengadakan perbaikan, maka sesungguhnya Allah Maha Pengampun lagi Maha Penyayang.</arti>
+	</ayat>
+	<ayat>
+        <ke>55</ke><gambar>6_55.png</gambar>
+        <arti>Dan demikianlah Kami terangkan ayat-ayat Al-Quraan (supaya jelas jalan orang-orang yang saleh, dan supaya jelas (pula) jalan orang-orang yang berdosa.</arti>
+	</ayat>
+	<ayat>
+        <ke>56</ke><gambar>6_56.png</gambar>
+        <arti>Katakanlah: "Sesungguhnya aku dilarang menyembah tuhan-tuhan yang kamu sembah selain Allah". Katakanlah: "Aku tidak akan mengikuti hawa nafsumu, sungguh tersesatlah aku jika berbuat demikian dan tidaklah (pula) aku termasuk orang-orang yang mendapat petunjuk".</arti>
+	</ayat>
+	<ayat>
+        <ke>57</ke><gambar>6_57.png</gambar>
+        <arti>Katakanlah: "Sesungguhnya aku berada di atas hujjah yang nyata (Al-Qur'an) dari Tuhanku, sedang kamu mendustakannya. Tidak ada padaku apa (azab) yang kamu minta supaya disegerakan kedatangannya. Menetapkan hukum itu hanyalah hak Allah. Dia menerangkan yang sebenarnya dan Dia Pemberi keputusan yang paling baik".</arti>
+	</ayat>
+	<ayat>
+        <ke>58</ke><gambar>6_58.png</gambar>
+        <arti>Katakanlah: "Kalau sekiranya ada padaku apa (azab) yang kamu minta supaya disegerakan, tentu telah diselesaikan Allah urusan yang ada antara aku dan kamu. Dan Allah lebih mengetahui tentang orang-orang yang zalim.</arti>
+	</ayat>
+	<ayat>
+        <ke>59</ke><gambar>6_59.png</gambar>
+        <arti>Dan pada sisi Allah-lah kunci-kunci semua yang ghaib; tidak ada yang mengetahuinya kecuali Dia sendiri, dan Dia mengetahui apa yang di daratan dan di lautan, dan tiada sehelai daun pun yang gugur melainkan Dia mengetahuinya (pula), dan tidak jatuh sebutir biji-pun dalam kegelapan bumi, dan tidak sesuatu yang basah atau yang kering, melainkan tertulis dalam kitab yang nyata (Lauh Mahfudz)"</arti>
+	</ayat>
+	<ayat>
+        <ke>60</ke><gambar>6_60.png</gambar>
+        <arti>Dan Dialah yang menidurkan kamu di malam hari dan Dia mengetahui apa yang kamu kerjakan di siang hari, kemudian Dia membangunkan kamu pada siang hari untuk disempurnakan umur(mu) yang telah ditentukan, kemudian kepada Allah-lah kamu kembali, lalu Dia memberitahukan kepadamu apa yang dahulu kamu kerjakan.</arti>
+	</ayat>
+	<ayat>
+        <ke>61</ke><gambar>6_61.png</gambar>
+        <arti>Dan Dialah yang mempunyai kekuasaan tertinggi di atas semua hamba-Nya, dan diutus-Nya kepadamu malaikat-malaikat penjaga, sehingga apabila datang kematian kepada salah seorang di antara kamu, ia diwafatkan oleh malaikat-malaikat Kami, dan malaikat-malaikat Kami itu tidak melalaikan kewajibannya.</arti>
+	</ayat>
+	<ayat>
+        <ke>62</ke><gambar>6_62.png</gambar>
+        <arti>Kemudian mereka (hamba Allah) dikembalikan kepada Allah, Penguasa mereka yang sebenarnya. Ketahuilah bahwa segala hukum (pada hari itu) kepunyaanNya. Dan Dialah Pembuat Perhitungan yang paling cepat.</arti>
+	</ayat>
+	<ayat>
+        <ke>63</ke><gambar>6_63.png</gambar>
+        <arti>Katakanlah: "Siapakah yang dapat menyelamatkan kamu dari bencana di darat dan di laut, yang kamu berdoa kepada-Nya dengan rendah diri dengan suara yang lembut (dengan mengatakan: "Sesungguhnya jika Dia menyelamatkan kami dari (bencana) ini, tentulah kami menjadi orang-orang yang bersyukur".</arti>
+	</ayat>
+	<ayat>
+        <ke>64</ke><gambar>6_64.png</gambar>
+        <arti>Katakanlah: "Allah menyelamatkan kamu dari bencana itu dan dari segala macam kesusahan, kemudian kamu kembali mempersekutukan-Nya."</arti>
+	</ayat>
+	<ayat>
+        <ke>65</ke><gambar>6_65.png</gambar>
+        <arti>Katakanlah: " Dialah yang berkuasa untuk mengirimkan azab kepadamu, dari atas kamu atau dari bawah kakimu atau Dia mencampurkan kamu dalam golongan-golongan (yang saling bertentangan) dan merasakan kepada sebahagian kamu keganasan sebahagian yang lain. Perhatikanlah, betapa Kami mendatangkan tanda-tanda kebesaran Kami silih berganti agar mereka memahami(nya)".</arti>
+	</ayat>
+	<ayat>
+        <ke>66</ke><gambar>6_66.png</gambar>
+        <arti>Dan kaummu mendustakannya (azab) padahal azab itu benar adanya. Katakanlah: "Aku ini bukanlah orang yang diserahi mengurus urusanmu".</arti>
+	</ayat>
+	<ayat>
+        <ke>67</ke><gambar>6_67.png</gambar>
+        <arti>Untuk setiap berita (yang dibawa oleh rasul-rasul) ada (waktu) terjadinya dan kelak kamu akan mengetahui.</arti>
+	</ayat>
+	<ayat>
+        <ke>68</ke><gambar>6_68.png</gambar>
+        <arti>Dan apabila kamu melihat orang-orang memperolok-olokkan ayat-ayat Kami, maka tinggalkanlah mereka sehingga mereka membicarakan pembicaraan yang lain. Dan jika syaitan menjadikan kamu lupa (akan larangan ini), maka janganlah kamu duduk bersama orang-orang yang zalim itu sesudah teringat (akan larangan itu).</arti>
+	</ayat>
+	<ayat>
+        <ke>69</ke><gambar>6_69.png</gambar>
+        <arti>Dan tidak ada pertanggungjawaban sedikitpun atas orang-orang yang bertakwa terhadap dosa mereka; akan tetapi (kewajiban mereka ialah) mengingatkan agar mereka bertakwa.</arti>
+	</ayat>
+	<ayat>
+        <ke>70</ke><gambar>6_70.png</gambar>
+        <arti>Dan tinggalkan lah orang-orang yang menjadikan agama mereka sebagai main-main dan senda gurau, dan mereka telah ditipu oleh kehidupan dunia. Peringatkanlah (mereka) dengan Al-Quraan itu agar masing-masing diri tidak dijerumuskan ke dalam neraka, karena perbuatannya sendiri. Tidak akan ada baginya pelindung dan tidak pula pemberi syafa'at selain daripada Allah. Dan jika ia menebus dengan segala macam tebusanpun, niscaya tidak akan diterima itu daripadanya. Mereka itulah orang-orang yang dijerumuskan ke dalam neraka. Bagi mereka (disediakan) minuman dari air yang sedang mendidih dan azab yang pedih disebabkan kekafiran mereka dahulu.</arti>
+	</ayat>
+	<ayat>
+        <ke>71</ke><gambar>6_71.png</gambar>
+        <arti>Katakanlah: "Apakah kita akan menyeru selain daripada Allah, sesuatu yang tidak dapat mendatangkan kemanfaatan kepada kita dan tidak (pula) mendatangkan kemudharatan kepada kita dan (apakah) kita akan kembali ke belakang, sesudah Allah memberi petunjuk kepada kita, seperti orang yang telah disesatkan oleh syaitan di pesawangan yang menakutkan; dalam keadaan bingung, dia mempunyai kawan-kawan yang memanggilnya kepada jalan yang lurus (dengan mengatakan): "Marilah ikuti kami". Katakanlah:"Sesungguhnya petunjuk Allah itulah (yang sebenarnya) petunjuk; dan kita disuruh agar menyerahkan diri kepada Tuhan semesta alam, </arti>
+	</ayat>
+	<ayat>
+        <ke>72</ke><gambar>6_72.png</gambar>
+        <arti>dan agar mendirikan sembahyang serta bertakwa kepadaNya". Dan Dialah Tuhan yang kepadaNyalah kamu akan dihimpunkan.</arti>
+	</ayat>
+	<ayat>
+        <ke>73</ke><gambar>6_73.png</gambar>
+        <arti>Dan Dialah yang menciptakan langit dan bumi dengan benar. Dan benarlah perkataan-Nya di waktu Dia mengatakan: "Jadilah, lalu terjadilah", dan di tangan-Nyalah segala kekuasaan di waktu sangkakala ditiup. Dia mengetahui yang ghaib dan yang nampak. Dan Dialah Yang Maha Bijaksana lagi Maha Mengetahui.</arti>
+	</ayat>
+	<ayat>
+        <ke>74</ke><gambar>6_74.png</gambar>
+        <arti>Dan (ingatlah) di waktu Ibrahim berkata kepada bapaknya, Aazar, "Pantaskah kamu menjadikan berhala-berhala sebagai tuhan-tuhan? Sesungguhnya aku melihat kamu dan kaummu dalam kesesatan yang nyata."</arti>
+	</ayat>
+	<ayat>
+        <ke>75</ke><gambar>6_75.png</gambar>
+        <arti>Dan demikianlah Kami perlihatkan kepada Ibrahim tanda-tanda keagungan (Kami yang terdapat) di langit dan bumi dan (Kami memperlihatkannya) agar dia termasuk orang yang yakin.</arti>
+	</ayat>
+	<ayat>
+        <ke>76</ke><gambar>6_76.png</gambar>
+        <arti>Ketika malam telah gelap, dia melihat sebuah bintang (lalu) dia berkata: "Inilah Tuhanku", tetapi tatkala bintang itu tenggelam dia berkata: "Saya tidak suka kepada yang tenggelam."</arti>
+	</ayat>
+	<ayat>
+        <ke>77</ke><gambar>6_77.png</gambar>
+        <arti>Kemudian tatkala dia melihat bulan terbit dia berkata: "Inilah Tuhanku". Tetapi setelah bulan itu terbenam, dia berkata: "Sesungguhnya jika Tuhanku tidak memberi petunjuk kepadaku, pastilah aku termasuk orang yang sesat."</arti>
+	</ayat>
+	<ayat>
+        <ke>78</ke><gambar>6_78.png</gambar>
+        <arti>Kemudian tatkala ia melihat matahari terbit, dia berkata: "Inilah Tuhanku, ini yang lebih besar". Maka tatkala matahari itu terbenam, dia berkata: "Hai kaumku, sesungguhnya aku berlepas diri dari apa yang kamu persekutukan.</arti>
+	</ayat>
+	<ayat>
+        <ke>79</ke><gambar>6_79.png</gambar>
+        <arti>Sesungguhnya aku menghadapkan diriku kepada Rabb yang menciptakan langit dan bumi, dengan cenderung kepada agama yang benar, dan aku bukanlah termasuk orang-orang yang mempersekutukan Tuhan.</arti>
+	</ayat>
+	<ayat>
+        <ke>80</ke><gambar>6_80.png</gambar>
+        <arti>Dan dia dibantah oleh kaumnya. Dia berkata: "Apakah kamu hendak membantah tentang Allah, padahal sesungguhnya Allah telah memberi petunjuk kepadaku". Dan aku tidak takut kepada (malapetaka dari) sembahan-sembahan yang kamu persekutukan dengan Allah, kecuali di kala Tuhanku menghendaki sesuatu (dari malapetaka) itu. Pengetahuan Tuhanku meliputi segala sesuatu. Maka apakah kamu tidak dapat mengambil pelajaran (daripadanya) ?"</arti>
+	</ayat>
+	<ayat>
+        <ke>81</ke><gambar>6_81.png</gambar>
+        <arti>Bagaimana aku takut kepada sembahan-sembahan yang kamu persekutukan (dengan Allah), padahal kamu tidak mempersekutukan Allah dengan sembahan-sembahan yang Allah sendiri tidak menurunkan hujjah kepadamu untuk mempersekutukanNya. Maka manakah di antara dua golongan itu yang lebih berhak memperoleh keamanan (dari malapetaka), jika kamu mengetahui?</arti>
+	</ayat>
+	<ayat>
+        <ke>82</ke><gambar>6_82.png</gambar>
+        <arti>Orang-orang yang beriman dan tidak mencampuradukkan iman mereka dengan kezaliman (syirik), mereka itulah yang mendapat keamanan dan mereka itu adalah orang-orang yang mendapat petunjuk.</arti>
+	</ayat>
+	<ayat>
+        <ke>83</ke><gambar>6_83.png</gambar>
+        <arti>Dan itulah hujjah Kami yang Kami berikan kepada Ibrahim untuk menghadapi kaumnya. Kami tinggikan siapa yang Kami kehendaki beberapa derajat. Sesungguhnya Tuhanmu Maha Bijaksana lagi Maha Mengetahui.</arti>
+	</ayat>
+	<ayat>
+        <ke>84</ke><gambar>6_84.png</gambar>
+        <arti>Dan Kami telah menganugerahkan Ishak dan Yaqub kepadanya. Kepada keduanya masing-masing telah Kami beri petunjuk; dan kepada Nuh sebelum itu (juga) telah Kami beri petunjuk, dan kepada sebahagian dari keturunannya (Nuh) yaitu Daud, Sulaiman, Ayyub, Yusuf, Musa dan Harun. Demikianlah Kami memberi balasan kepada orang-orang yang berbuat baik.</arti>
+	</ayat>
+	<ayat>
+        <ke>85</ke><gambar>6_85.png</gambar>
+        <arti>dan Zakaria, Yahya, 'Isa dan Ilyas. Semuanya termasuk orang-orang yang shaleh.</arti>
+	</ayat>
+	<ayat>
+        <ke>86</ke><gambar>6_86.png</gambar>
+        <arti>dan Ismail, Alyasa', Yunus dan Luth. Masing-masing Kami lebihkan derajatnya di atas umat (di masanya),</arti>
+	</ayat>
+	<ayat>
+        <ke>87</ke><gambar>6_87.png</gambar>
+        <arti>Dan Kami lebihkan (pula) derajat sebahagian dari bapak-bapak mereka, keturunan dan saudara-saudara mereka. Dan Kami telah memilih mereka (untuk menjadi nabi-nabi dan rasul-rasul) dan Kami menunjuki mereka ke jalan yang lurus.</arti>
+	</ayat>
+	<ayat>
+        <ke>88</ke><gambar>6_88.png</gambar>
+        <arti>Itulah petunjuk Allah, yang dengannya Dia memberi petunjuk kepada siapa yang dikehendakiNya di antara hamba-hambaNya. Seandainya mereka mempersekutukan Allah, niscaya lenyaplah dari mereka amalan yang telah mereka kerjakan.</arti>
+	</ayat>
+	<ayat>
+        <ke>89</ke><gambar>6_89.png</gambar>
+        <arti>Mereka itulah orang-orang yang telah Kami berikan kitab, hikmat dan kenabian Jika orang-orang (Quraisy) itu mengingkarinya, maka sesungguhnya Kami akan menyerahkannya kepada kaum yang sekali-kali tidak akan mengingkarinya.</arti>
+	</ayat>
+	<ayat>
+        <ke>90</ke><gambar>6_90.png</gambar>
+        <arti>Mereka itulah orang-orang yang telah diberi petunjuk oleh Allah, maka ikutilah petunjuk mereka. Katakanlah: "Aku tidak meminta upah kepadamu dalam menyampaikan (Al-Quraan)." Al-Quraan itu tidak lain hanyalah peringatan untuk seluruh ummat.</arti>
+	</ayat>
+	<ayat>
+        <ke>91</ke><gambar>6_91.png</gambar>
+        <arti>Dan mereka tidak menghormati Allah dengan penghormatan yang semestinya, di kala mereka berkata: "Allah tidak menurunkan sesuatupun kepada manusia". Katakanlah: "Siapakah yang menurunkan kitab (Taurat) yang dibawa oleh Musa sebagai cahaya dan petunjuk bagi manusia, kamu jadikan kitab itu lembaran-lembaran kertas yang bercerai-berai, kamu perlihatkan (sebahagiannya) dan kamu sembunyikan sebahagian besarnya, padahal telah diajarkan kepadamu apa yang kamu dan bapak-bapak kamu tidak mengetahui(nya) ?" Katakanlah: "Allah-lah (yang menurunkannya)", kemudian (sesudah kamu menyampaikan Al-Qur'an kepada mereka), biarkanlah mereka bermain-main dalam kesesatannya.</arti>
+	</ayat>
+	<ayat>
+        <ke>92</ke><gambar>6_92.png</gambar>
+        <arti>Dan ini (Al-Qur'an) adalah kitab yang telah Kami turunkan yang diberkahi; membenarkan kitab-kitab yang (diturunkan) sebelumnya dan agar kamu memberi peringatan kepada (penduduk) Ummul Qura (Mekah) dan orang-orang yang di luar lingkungannya. Orang-orang yang beriman kepada adanya kehidupan akhirat tentu beriman kepadanya (Al-Qur'an) dan mereka selalu memelihara sembahyangnya.</arti>
+	</ayat>
+	<ayat>
+        <ke>93</ke><gambar>6_93.png</gambar>
+        <arti>Dan siapakah yang lebih zalim daripada orang yang membuat kedustaan terhadap Allah atau yang berkata: "Telah diwahyukan kepada saya", padahal tidak ada diwahyukan sesuatupun kepadanya, dan orang yang berkata: "Saya akan menurunkan seperti apa yang diturunkan Allah." Alangkah dahsyatnya sekiranya kamu melihat di waktu orang-orang yang zalim berada dalam tekanan sakratul maut, sedang para malaikat memukul dengan tangannya, (sambil berkata): "Keluarkanlah nyawamu" Di hari ini kamu dibalas dengan siksa yang sangat menghinakan, karena kamu selalu mengatakan terhadap Allah (perkataan) yang tidak benar dan (karena) kamu selalu menyombongkan diri terhadap ayat-ayatNya.</arti>
+	</ayat>
+	<ayat>
+        <ke>94</ke><gambar>6_94.png</gambar>
+        <arti>Dan sesungguhnya kamu datang kepada Kami sendiri-sendiri sebagaimana kamu Kami ciptakan pada mulanya, dan kamu tinggalkan di belakangmu (di dunia) apa yang telah Kami karuniakan kepadamu; dan Kami tiada melihat besertamu pemberi syafa'at yang kamu anggap bahwa mereka itu sekutu-sekutu Tuhan di antara kamu. Sungguh telah terputuslah (pertalian) antara kamu dan telah lenyap daripada kamu apa yang dahulu kamu anggap (sebagai sekutu Allah).</arti>
+	</ayat>
+	<ayat>
+        <ke>95</ke><gambar>6_95.png</gambar>
+        <arti>Sesungguhnya Allah menumbuhkan butir tumbuh-tumbuhan dan biji buah-buahan. Dia mengeluarkan yang hidup dari yang mati dan mengeluarkan yang mati dari yang hidup. (Yang memiliki sifat-sifat) demikian ialah Allah, maka mengapa kamu masih berpaling?</arti>
+	</ayat>
+	<ayat>
+        <ke>96</ke><gambar>6_96.png</gambar>
+        <arti>Dia menyingsingkan pagi dan menjadikan malam untuk beristirahat, dan (menjadikan) matahari dan bulan untuk perhitungan. Itulah ketentuan Allah Yang Maha Perkasa lagi Maha Mengetahui.</arti>
+	</ayat>
+	<ayat>
+        <ke>97</ke><gambar>6_97.png</gambar>
+        <arti>Dan Dialah yang menjadikan bintang-bintang bagimu, agar kamu menjadikannya petunjuk dalam kegelapan di darat dan di laut. Sesungguhnya Kami telah menjelaskan tanda-tanda kebesaran (Kami) kepada orang-orang yang mengetahui.</arti>
+	</ayat>
+	<ayat>
+        <ke>98</ke><gambar>6_98.png</gambar>
+        <arti>Dan Dialah yang menciptakan kamu dari seorang diri, maka (bagimu) ada tempat tetap dan tempat simpanan. Sesungguhnya telah Kami jelaskan tanda-tanda kebesaran Kami kepada orang-orang yang mengetahui.</arti>
+	</ayat>
+	<ayat>
+        <ke>99</ke><gambar>6_99.png</gambar>
+        <arti>Dan Dialah yang menurunkan air hujan dari langit, lalu Kami tumbuhkan dengan air itu segala macam tumbuh-tumbuhan maka Kami keluarkan dari tumbuh-tumbuhan itu tanaman yang menghijau. Kami keluarkan dari tanaman yang menghijau itu butir yang banyak; dan dari mayang korma mengurai tangkai-tangkai yang menjulai, dan kebun-kebun anggur, dan (Kami keluarkan pula) zaitun dan delima yang serupa dan yang tidak serupa. Perhatikanlah buahnya di waktu pohonnya berbuah dan (perhatikan pulalah) kematangannya. Sesungguhnya pada yang demikian itu ada tanda-tanda (kekuasaan Allah) bagi orang-orang yang beriman.</arti>
+	</ayat>
+	<ayat>
+        <ke>100</ke><gambar>6_100.png</gambar>
+        <arti>Dan mereka (orang-orang musyrik) menjadikan jin itu sekutu bagi Allah, padahal Allah-lah yang menciptakan jin-jin itu, dan mereka membohong (dengan mengatakan): "Bahwasanya Allah mempunyai anak laki-laki dan perempuan", tanpa (berdasar) ilmu pengetahuan. Maha Suci Allah dan Maha Tinggi dari sifat-sifat yang mereka berikan.</arti>
+	</ayat>
+	<ayat>
+        <ke>101</ke><gambar>6_101.png</gambar>
+        <arti>Dia Pencipta langit dan bumi. Bagaimana Dia mempunyai anak padahal Dia tidak mempunyai isteri. Dia menciptakan segala sesuatu; dan Dia mengetahui segala sesuatu.</arti>
+	</ayat>
+	<ayat>
+        <ke>102</ke><gambar>6_102.png</gambar>
+        <arti>(Yang memiliki sifat-sifat yang) demikian itu ialah Allah Tuhan kamu; tidak ada Tuhan selain Dia; Pencipta segala sesuatu, maka sembahlah Dia; dan Dia adalah Pemelihara segala sesuatu.</arti>
+	</ayat>
+	<ayat>
+        <ke>103</ke><gambar>6_103.png</gambar>
+        <arti>Dia tidak dapat dicapai oleh penglihatan mata, sedang Dia dapat melihat segala yang kelihatan; dan Dialah Yang Maha Halus lagi Maha Mengetahui.</arti>
+	</ayat>
+	<ayat>
+        <ke>104</ke><gambar>6_104.png</gambar>
+        <arti>Sesungguhnya telah datang dari Tuhanmu bukti-bukti yang terang; maka barangsiapa melihat (kebenaran itu), maka (manfa'atnya) bagi dirinya sendiri; dan barangsiapa buta (tidak melihat kebenaran itu), maka kemudharatannya kembali kepadanya. Dan aku (Muhammad) sekali-kali bukanlah pemelihara(mu).</arti>
+	</ayat>
+	<ayat>
+        <ke>105</ke><gambar>6_105.png</gambar>
+        <arti>Demikianlah Kami mengulang-ulangi ayat-ayat Kami supaya (orang-orang yang beriman mendapat petunjuk) dan supaya orang-orang musyrik mengatakan: "Kamu telah mempelajari ayat-ayat itu (dari Ahli Kitab)", dan supaya Kami menjelaskan Al-Qur'an itu kepada orang-orang yang mengetahui.</arti>
+	</ayat>
+	<ayat>
+        <ke>106</ke><gambar>6_106.png</gambar>
+        <arti>Ikutilah apa yang telah diwahyukan kepadamu dari Tuhanmu; tidak ada Tuhan selain Dia; dan berpalinglah dari orang-orang musyrik.</arti>
+	</ayat>
+	<ayat>
+        <ke>107</ke><gambar>6_107.png</gambar>
+        <arti>Dan kalau Allah menghendaki, niscaya mereka tidak memperkutukan(Nya). Dan Kami tidak menjadikan kamu pemelihara bagi mereka; dan kamu sekali-kali bukanlah pemelihara bagi mereka.</arti>
+	</ayat>
+	<ayat>
+        <ke>108</ke><gambar>6_108.png</gambar>
+        <arti>Dan janganlah kamu memaki sembahan-sembahan yang mereka sembah selain Allah, karena mereka nanti akan memaki Allah dengan melampaui batas tanpa pengetahuan. Demikianlah Kami jadikan setiap umat menganggap baik pekerjaan mereka. Kemudian kepada Tuhan merekalah kembali mereka, lalu Dia memberitakan kepada mereka apa yang dahulu mereka kerjakan.</arti>
+	</ayat>
+	<ayat>
+        <ke>109</ke><gambar>6_109.png</gambar>
+        <arti>Mereka bersumpah dengan nama Allah dengan segala kesungguhan, bahwa sungguh jika datang kepada mereka sesuatu mu jizat, pastilah mereka beriman kepada-Nya. Katakanlah: "Sesungguhnya mu'jizat-mu'jizat itu hanya berada di sisi Allah". Dan apakah yang memberitahukan kepadamu bahwa apabila mu'jizat datang mereka tidak akan beriman.</arti>
+	</ayat>
+	<ayat>
+        <ke>110</ke><gambar>6_110.png</gambar>
+        <arti>Dan (begitu pula) Kami memalingkan hati dan penglihatan mereka seperti mereka belum pernah beriman kepadanya (Al-Qur'an) pada permulaannya, dan Kami biarkan mereka bergelimang dalam kesesatannya yang sangat.</arti>
+	</ayat>
+	<ayat>
+        <ke>111</ke><gambar>6_111.png</gambar>
+        <arti>Kalau sekiranya Kami turunkan malaikat kepada mereka, dan orang-orang yang telah mati berbicara dengan mereka dan Kami kumpulkan (pula) segala sesuatu ke hadapan mereka, niscaya mereka tidak (juga) akan beriman, kecuali jika Allah menghendaki, tetapi kebanyakan mereka tidak mengetahui.</arti>
+	</ayat>
+	<ayat>
+        <ke>112</ke><gambar>6_112.png</gambar>
+        <arti>Dan demikianlah Kami jadikan bagi tiap-tiap nabi itu musuh, yaitu syaitan-syaitan (dari jenis) manusia dan (dan jenis) jin, sebahagian mereka membisikkan kepada sebahagian yang lain perkataan-perkataan yang indah-indah untuk menipu (manusia). Jikalau Tuhanmu menghendaki, niscaya mereka tidak mengerjakannya, maka tinggalkanlah mereka dan apa yang mereka ada-adakan.</arti>
+	</ayat>
+	<ayat>
+        <ke>113</ke><gambar>6_113.png</gambar>
+        <arti>Dan (juga) agar hati kecil orang-orang yang tidak beriman kepada kehidupan akhirat cenderung kepada bisikan itu, mereka merasa senang kepadanya dan supaya mereka mengerjakan apa yang mereka (syaitan) kerjakan.</arti>
+	</ayat>
+	<ayat>
+        <ke>114</ke><gambar>6_114.png</gambar>
+        <arti>Maka patutkah aku mencari hakim selain daripada Allah, padahal Dialah yang telah menurunkan kitab (Al-Qur'an) kepadamu dengan terperinci? Orang-orang yang telah Kami datangkan kitab kepada mereka, mereka mengetahui bahwa Al-Qur'an itu diturunkan dari Tuhanmu dengan sebenarnya. Maka janganlah kamu sekali-kali termasuk orang yang ragu-ragu.</arti>
+	</ayat>
+	<ayat>
+        <ke>115</ke><gambar>6_115.png</gambar>
+        <arti>Telah sempurnalah kalimat Tuhanmu (Al-Quraan) sebagai kalimat yang benar dan adil. Tidak ada yang dapat merobah robah kalimat-kalimat-Nya dan Dia lah yang Maha Mendenyar lagi Maha Mengetahui.</arti>
+	</ayat>
+	<ayat>
+        <ke>116</ke><gambar>6_116.png</gambar>
+        <arti>Dan jika kamu menuruti kebanyakan orang-orang yang di muka bumi ini, niscaya mereka akan menyesatkanmu dari jalan Allah. Mereka tidak lain hanyalah mengikuti persangkaan belaka, dan mereka tidak lain hanyalah berdusta (terhadap Allah).</arti>
+	</ayat>
+	<ayat>
+        <ke>117</ke><gambar>6_117.png</gambar>
+        <arti>Sesungguhnya Tuhanmu, Dia-lah yang lebih mengetahui tentang orang yang tersesat dari jalan-Nya dan Dia lebih mengetahui tentang orang orang yang mendapat petunjuk.</arti>
+	</ayat>
+	<ayat>
+        <ke>118</ke><gambar>6_118.png</gambar>
+        <arti>Maka makanlah binatang-binatang (yang halal) yang disebut nama Allah ketika menyembelihnya, jika kamu beriman kepada ayat-ayatNya.</arti>
+	</ayat>
+	<ayat>
+        <ke>119</ke><gambar>6_119.png</gambar>
+        <arti>Mengapa kamu tidak mau memakan (binatang-binatang yang halal) yang disebut nama Allah ketika menyembelihnya, padahal sesungguhnya Allah telah menjelaskan kepada kamu apa yang diharamkan-Nya atasmu, kecuali apa yang terpaksa kamu memakannya. Dan sesungguhnya kebanyakan (dari manusia) benar benar hendak menyesatkan (orang lain) dengan hawa nafsu mereka tanpa pengetahuan. Sesungguhnya Tuhanmu, Dia-lah yang lebih mengetahui orang-orang yang melampaui batas.</arti>
+	</ayat>
+	<ayat>
+        <ke>120</ke><gambar>6_120.png</gambar>
+        <arti>Dan tinggalkanlah dosa yang nampak dan yang tersembunyi. Sesungguhnya orang yang mengerjakan dosa, kelak akan diberi pembalasan (pada hari kiamat), disebabkan apa yang mereka telah kerjakan.</arti>
+	</ayat>
+	<ayat>
+        <ke>121</ke><gambar>6_121.png</gambar>
+        <arti>Dan janganlah kamu memakan binatang-binatang yang tidak disebut nama Allah ketika menyembelihnya. Sesungguhnya perbuatan yang semacam itu adalah suatu kefasikan. Sesungguhnya syaitan itu membisikkan kepada kawan-kawannya agar mereka membantah kamu; dan jika kamu menuruti mereka, sesungguhnya kamu tentulah menjadi orang-orang yang musyrik.</arti>
+	</ayat>
+	<ayat>
+        <ke>122</ke><gambar>6_122.png</gambar>
+        <arti>Dan apakah orang yang sudah mati kemudian dia Kami hidupkan dan Kami berikan kepadanya cahaya yang terang, yang dengan cahaya itu dia dapat berjalan di tengah-tengah masyarakat manusia, serupa dengan orang yang keadaannya berada dalam gelap gulita yang sekali-kali tidak dapat keluar dari padanya? Demikianlah Kami jadikan orang yang kafir itu memandang baik apa yang telah mereka kerjakan.</arti>
+	</ayat>
+	<ayat>
+        <ke>123</ke><gambar>6_123.png</gambar>
+        <arti>Dan demikianlah Kami adakan pada tiap-tiap negeri penjahat-penjahat yang terbesar agar mereka melakukan tipu daya dalam negeri itu. Dan mereka tidak memperdayakan melainkan dirinya sendiri, sedang mereka tidak menyadarinya.</arti>
+	</ayat>
+	<ayat>
+        <ke>124</ke><gambar>6_124.png</gambar>
+        <arti>Apabila datang sesuatu ayat kepada mereka, mereka berkata: "Kami tidak akan beriman sehingga diberikan kepada kami yang serupa dengan apa yang telah diberikan kepada utusan-utusan Allah". Allah lebih mengetahui di mana Dia menempatkan tugas kerasulan. Orang-orang yang berdosa, nanti akan ditimpa kehinaan di sisi Allah dan siksa yang keras disebabkan mereka selalu membuat tipu daya.</arti>
+	</ayat>
+	<ayat>
+        <ke>125</ke><gambar>6_125.png</gambar>
+        <arti>Barangsiapa yang Allah menghendaki akan memberikan kepadanya petunjuk, niscaya Dia melapangkan dadanya untuk (memeluk agama) Islam. Dan barangsiapa yang dikehendaki Allah kesesatannya, niscaya Allah menjadikan dadanya sesak lagi sempit, seolah-olah ia sedang mendaki langit. Begitulah Allah menimpakan siksa kepada orang-orang yang tidak beriman.</arti>
+	</ayat>
+	<ayat>
+        <ke>126</ke><gambar>6_126.png</gambar>
+        <arti>Dan inilah jalan Tuhanmu; (jalan) yang lurus. Sesungguhnya Kami telah menjelaskan ayat-ayat (Kami) kepada orang-orang yang mengambil pelajaran.</arti>
+	</ayat>
+	<ayat>
+        <ke>127</ke><gambar>6_127.png</gambar>
+        <arti>Bagi mereka (disediakan) darussalam (syurga) pada sisi Tuhannya dan Dialah Pelindung mereka disebabkan amal-amal saleh yang selalu mereka kerjakan.</arti>
+	</ayat>
+	<ayat>
+        <ke>128</ke><gambar>6_128.png</gambar>
+        <arti>Dan (ingatlah) hari diwaktu Allah menghimpunkan mereka semuanya (dan Allah berfirman): "Hai golongan jin, sesungguhnya kamu telah banyak menyesatkan manusia", lalu berkatalah kawan-kawan meraka dari golongan manusia: "Ya Tuhan kami, sesungguhnya sebahagian daripada kami telah dapat kesenangan dari sebahagian (yang lain) dan kami telah sampai kepada waktu yang telah Engkau tentukan bagi kami". Allah berfirman: "Neraka itulah tempat diam kamu, sedang kamu kekal di dalamnya, kecuali kalau Allah menghendaki (yang lain)". Sesungguhnya Tuhanmu Maha Bijaksana lagi Maha Mengetahui.</arti>
+	</ayat>
+	<ayat>
+        <ke>129</ke><gambar>6_129.png</gambar>
+        <arti>Dan demikianlah Kami jadikan sebahagian orang-orang yang zalim itu menjadi teman bagi sebahagian yang lain disebabkan apa yang mereka usahakan.</arti>
+	</ayat>
+	<ayat>
+        <ke>130</ke><gambar>6_130.png</gambar>
+        <arti>Hai golongan jin dan manusia, apakah belum datang kepadamu rasul-rasul dari golongan kamu sendiri, yang menyampaikan kepadamu ayat-ayatKu dan memberi peringatan kepadamu terhadap pertemuanmu dengan hari ini? Mereka berkata: "Kami menjadi saksi atas diri kami sendiri", kehidupan dunia telah menipu mereka, dan mereka menjadi saksi atas diri mereka sendiri, bahwa mereka adalah orang-orang yang kafir.</arti>
+	</ayat>
+	<ayat>
+        <ke>131</ke><gambar>6_131.png</gambar>
+        <arti>Yang demikian itu adalah karena Tuhanmu tidaklah membinasakan kota-kota secara aniaya, sedang penduduknya dalam keadaan lengah.</arti>
+	</ayat>
+	<ayat>
+        <ke>132</ke><gambar>6_132.png</gambar>
+        <arti>Dan masing-masing orang memperoleh derajat-derajat (seimbang) dengan apa yang dikerjakannya. Dan Tuhanmu tidak lengah dari apa yang mereka kerjakan.</arti>
+	</ayat>
+	<ayat>
+        <ke>133</ke><gambar>6_133.png</gambar>
+        <arti>Dan Tuhanmu Maha Kaya lagi mempunyai rahmat. Jika Dia menghendaki niscaya Dia memusnahkan kamu dan menggantimu dengan siapa yang dikehendaki-Nya setelah kamu (musnah), sebagaimana Dia telah menjadikan kamu dari keturunan orang-orang lain.</arti>
+	</ayat>
+	<ayat>
+        <ke>134</ke><gambar>6_134.png</gambar>
+        <arti>Sesungguhnya apa yang dijanjikan kepadamu pasti datang, dan kamu sekali-kali tidak sanggup menolaknya.</arti>
+	</ayat>
+	<ayat>
+        <ke>135</ke><gambar>6_135.png</gambar>
+        <arti>Katakanlah: "Hai kaumku, berbuatlah sepenuh kemampuanmu, sesungguhnya akupun berbuat (pula). Kelak kamu akan mengetahui, siapakah (di antara kita) yang akan memperoleh hasil yang baik di dunia ini. Sesungguhnya orang-orang yang zalim itu tidak akan mendapatkan keberuntungan.</arti>
+	</ayat>
+	<ayat>
+        <ke>136</ke><gambar>6_136.png</gambar>
+        <arti>Dan mereka memperuntukkan bagi Allah satu bagian dari tanaman dan ternak yang telah diciptakan Allah, lalu mereka berkata sesuai dengan persangkaan mereka: "Ini untuk Allah dan ini untuk berhala-berhala kami". Maka saji-sajian yang diperuntukkan bagi berhala-berhala mereka tidak sampai kepada Allah; dan saji-sajian yang diperuntukkan bagi Allah, maka sajian itu sampai kepada berhala-berhala mereka. Amat buruklah ketetapan mereka itu.</arti>
+	</ayat>
+	<ayat>
+        <ke>137</ke><gambar>6_137.png</gambar>
+        <arti>Dan demikianlah pemimpin-pemimpin mereka telah menjadikan kebanyakan dari orang-orang musyrik itu memandang baik membunuh anak-anak mereka untuk membinasakan mereka dan untuk mengaburkan bagi mereka agama-Nya. Dan kalau Allah menghendaki, niscaya mereka tidak mengerjakannya, maka tinggallah mereka dan apa yang mereka ada-adakan.</arti>
+	</ayat>
+	<ayat>
+        <ke>138</ke><gambar>6_138.png</gambar>
+        <arti>Dan mereka mengatakan: "Inilah hewan ternak dan tanaman yang dilarang; tidak boleh memakannya, kecuali orang yang kami kehendaki", menurut anggapan mereka, dan ada binatang ternak yang diharamkan menungganginya dan ada binatang ternak yang mereka tidak menyebut nama Allah waktu menyembelihnya, semata-mata membuat-buat kedustaan terhadap Allah. Kelak Allah akan membalas mereka terhadap apa yang selalu mereka ada-adakan.</arti>
+	</ayat>
+	<ayat>
+        <ke>139</ke><gambar>6_139.png</gambar>
+        <arti>Dan mereka mengatakan: "Apa yang ada dalam perut binatang ternak ini adalah khusus untuk pria kami dan diharamkan atas wanita kami," dan jika yang dalam perut itu dilahirkan mati, maka pria dan wanita sama-sama boleh memakannya. Kelak Allah akan membalas mereka terhadap ketetapan mereka. Sesungguhnya Allah Maha Bijaksana lagi Maha Mengetahui.</arti>
+	</ayat>
+	<ayat>
+        <ke>140</ke><gambar>6_140.png</gambar>
+        <arti>Sesungguhnya rugilah orang yang membunuh anak-anak mereka, karena kebodohan lagi tidak mengetahui dan mereka mengharamkan apa yang Allah telah rezki-kan pada mereka dengan semata-mata mengada-adakan terhadap Allah. Sesungguhnya mereka telah sesat dan tidaklah mereka mendapat petunjuk.</arti>
+	</ayat>
+	<ayat>
+        <ke>141</ke><gambar>6_141.png</gambar>
+        <arti>Dan Dialah yang menjadikan kebun-kebun yang berjunjung dan yang tidak berjunjung, pohon korma, tanam-tanaman yang bermacam-macam buahnya, zaitun dan delima yang serupa (bentuk dan warnanya) dan tidak sama (rasanya). Makanlah dari buahnya (yang bermacam-macam itu) bila dia berbuah, dan tunaikanlah haknya di hari memetik hasilnya (dengan disedekahkan kepada fakir miskin); dan janganlah kamu berlebih-lebihan. Sesungguhnya Allah tidak menyukai orang yang berlebih-lebihan.</arti>
+	</ayat>
+	<ayat>
+        <ke>142</ke><gambar>6_142.png</gambar>
+        <arti>Dan di antara hewan ternak itu ada yang dijadikan untuk pengangkutan dan ada yang untuk disembelih. Makanlah dari rezki yang telah diberikan Allah kepadamu, dan janganlah kamu mengikuti langkah-langkah syaitan. Sesungguhnya syaitan itu musuh yang nyata bagimu.</arti>
+	</ayat>
+	<ayat>
+        <ke>143</ke><gambar>6_143.png</gambar>
+        <arti>(yaitu) delapan binatang yang berpasangan, sepasang domba, sepasang dari kambing. Katakanlah: "Apakah dua yang jantan yang diharamkan Allah ataukah dua yang betina, ataukah yang ada dalam kandungan dua betinanya?" Terangkanlah kepadaku dengan berdasar pengetahuan jika kamu memang orang-orang yang benar,</arti>
+	</ayat>
+	<ayat>
+        <ke>144</ke><gambar>6_144.png</gambar>
+        <arti>dan sepasang dari unta dan sepasang dari lembu. Katakanlah: "Apakah dua yang jantan yang diharamkan ataukah dua yang betina, ataukah yang ada dalam kandungan dua betinanya? Apakah kamu menyaksikan di waktu Allah menetapkan ini bagimu? Maka siapakah yang lebih zalim daripada orang-orang yang membuat-buat dusta terhadap Allah untuk menyesatkan manusia tanpa pengetahuan ?" Sesungguhnya Allah tidak memberi petunjuk kepada orang-orang yang zalim.</arti>
+	</ayat>
+	<ayat>
+        <ke>145</ke><gambar>6_145.png</gambar>
+        <arti>Katakanlah: "Tiadalah aku peroleh dalam wahyu yang diwahyukan kepadaku, sesuatu yang diharamkan bagi orang yang hendak memakannya, kecuali kalau makanan itu bangkai, atau darah yang mengalir atau daging babi karena sesungguhnya semua itu kotor atau binatang yang disembelih atas nama selain Allah. Barangsiapa yang dalam keadaan terpaksa, sedang dia tidak menginginkannya dan tidak (pula) melampaui batas, maka sesungguhnya Tuhanmu Maha Pengampun lagi Maha Penyayang".</arti>
+	</ayat>
+	<ayat>
+        <ke>146</ke><gambar>6_146.png</gambar>
+        <arti>Dan kepada orang-orang Yahudi, Kami haramkan segala binatang yang berkuku dan dari sapi dan domba, Kami haramkan atas mereka lemak dari kedua binatang itu, selain lemak yang melekat di punggung keduanya atau yang di perut besar dan usus atau yang bercampur dengan tulang. Demikianlah Kami hukum mereka disebabkan kedurhakaan mereka; dan sesungguhnya Kami adalah Maha Benar.</arti>
+	</ayat>
+	<ayat>
+        <ke>147</ke><gambar>6_147.png</gambar>
+        <arti>Maka jika mereka mendustakan kamu, katakanlah: "Tuhanmu mempunyai rahmat yang luas; dan siksa-Nya tidak dapat ditolak dari kaum yang berdosa".</arti>
+	</ayat>
+	<ayat>
+        <ke>148</ke><gambar>6_148.png</gambar>
+        <arti>Orang-orang yang mempersekutukan Tuhan, akan mengatakan: "Jika Allah menghendaki, niscaya kami dan bapak-bapak kami tidak mempersekutukan-Nya dan tidak (pula) kami mengharamkan barang sesuatu apapun." Demikian pulalah orang-orang sebelum mereka telah mendustakan (para rasul) sampai mereka merasakan siksaan Kami. Katakanlah: "Adakah kamu mempunyai sesuatu pengetahuan sehingga dapat kamu mengemukakannya kepada Kami?" Kamu tidak mengikuti kecuali persangkaan belaka, dan kamu tidak lain hanyalah berdusta.</arti>
+	</ayat>
+	<ayat>
+        <ke>149</ke><gambar>6_149.png</gambar>
+        <arti>Katakanlah: "Allah mempunyai hujjah yang jelas lagi kuat; maka jika Dia menghendaki, pasti Dia memberi petunjuk kepada kamu semuanya".</arti>
+	</ayat>
+	<ayat>
+        <ke>150</ke><gambar>6_150.png</gambar>
+        <arti>Katakanlah: "Bawalah kemari saksi-saksi kamu yang dapat mempersaksikan bahwasanya Allah telah mengharamkan (makanan yang kamu) haramkan ini" Jika mereka mempersaksikan, maka janganlah kamu ikut pula menjadi saksi bersama mereka; dan janganlah kamu mengikuti hawa nafsu orang-orang yang mendustakan ayat-ayat Kami, dan orang-orang yang tidak beriman kepada kehidupan akhirat, sedang mereka mempersekutukan Tuhan mereka.</arti>
+	</ayat>
+	<ayat>
+        <ke>151</ke><gambar>6_151.png</gambar>
+        <arti>Katakanlah: "Marilah kubacakan apa yang diharamkan atas kamu oleh Tuhanmu yaitu: janganlah kamu mempersekutukan sesuatu dengan Dia, berbuat baiklah terhadap kedua orang ibu bapa, dan janganlah kamu membunuh anak-anak kamu karena takut kemiskinan, Kami akan memberi rezki kepadamu dan kepada mereka, dan janganlah kamu mendekati perbuatan-perbuatan yang keji, baik yang nampak di antaranya maupun yang tersembunyi, dan janganlah kamu membunuh jiwa yang diharamkan Allah (membunuhnya) melainkan dengan sesuatu (sebab) yang benar". Demikian itu yang diperintahkan kepadamu supaya kamu memahami(nya).</arti>
+	</ayat>
+	<ayat>
+        <ke>152</ke><gambar>6_152.png</gambar>
+        <arti>Dan janganlah kamu dekati harta anak yatim, kecuali dengan cara yang lebih bermanfaat, hingga sampai ia dewasa. Dan sempurnakanlah takaran dan timbangan dengan adil. Kami tidak memikulkan beban kepada sesorang melainkan sekedar kesanggupannya. Dan apabila kamu berkata, maka hendaklah kamu berlaku adil, kendatipun ia adalah kerabat(mu), dan penuhilah janji Allah. Yang demikian itu diperintahkan Allah kepadamu agar kamu ingat.</arti>
+	</ayat>
+	<ayat>
+        <ke>153</ke><gambar>6_153.png</gambar>
+        <arti>dan bahwa (yang Kami perintahkan ini) adalah jalanKu yang lurus, maka ikutilah dia, dan janganlah kamu mengikuti jalan-jalan (yang lain), karena jalan-jalan itu mencerai beraikan kamu dari jalanNya. Yang demikian itu diperintahkan Allah agar kamu bertakwa.</arti>
+	</ayat>
+	<ayat>
+        <ke>154</ke><gambar>6_154.png</gambar>
+        <arti>Kemudian Kami telah memberikan Al Kitab (Taurat) kepada Musa untuk menyempurnakan (nikmat Kami) kepada orang yang berbuat kebaikan, dan untuk menjelaskan segala sesuatu dan sebagai petunjuk dan rahmat, agar mereka beriman (bahwa) mereka akan menemui Tuhan mereka.</arti>
+	</ayat>
+	<ayat>
+        <ke>155</ke><gambar>6_155.png</gambar>
+        <arti>Dan Al-Quraan itu adalah kitab yang Kami turunkan yang diberkati, maka ikutilah dia dan bertakwalah agar kamu diberi rahmat.</arti>
+	</ayat>
+	<ayat>
+        <ke>156</ke><gambar>6_156.png</gambar>
+        <arti>(Kami turunkan al-Quraan itu) agar kamu (tidak) mengatakan: "Bahwa kitab itu hanya diturunkan kepada dua golongan saja sebelum kami, dan sesungguhnya kami tidak memperhatikan apa yang mereka baca.</arti>
+	</ayat>
+	<ayat>
+        <ke>157</ke><gambar>6_157.png</gambar>
+        <arti>Atau agar kamu (tidak) mengatakan: "Sesungguhnya jikalau kitab ini diturunkan kepada kami, tentulah kami lebih mendapat petunjuk dari mereka." Sesungguhnya telah datang kepada kamu keterangan yang nyata dari Tuhanmu, petunjuk dan rahmat. Maka siapakah yang lebih zalim daripada orang yang mendustakan ayat-ayat Allah dan berpaling daripadanya? Kelak Kami akan memberi balasan kepada orang-orang yang berpaling dari ayat-ayat Kami dengan siksa yang buruk, disebabkan mereka selalu berpaling.</arti>
+	</ayat>
+	<ayat>
+        <ke>158</ke><gambar>6_158.png</gambar>
+        <arti>Yang mereka nanti-nanti tidak lain hanyalah kedatangan malaikat kepada mereka (untuk mencabut nyawa mereka) atau kedatangan (siksa) Tuhanmu atau kedatangan beberapa ayat Tuhanmu. Pada hari datangnya ayat dari Tuhanmu, tidaklah bermanfaat lagi iman seseorang kepada dirinya sendiri yang belum beriman sebelum itu, atau dia (belum) mengusahakan kebaikan dalam masa imannya. Katakanlah: "Tunggulah olehmu sesungguhnya Kamipun menunggu (pula)".</arti>
+	</ayat>
+	<ayat>
+        <ke>159</ke><gambar>6_159.png</gambar>
+        <arti>Sesungguhnya orang-orang yang memecah belah agama-Nya dan mereka menjadi bergolongan, tidak ada sedikitpun tanggung jawabmu kepada mereka. Sesungguhnya urusan mereka hanyalah terserah kepada Allah, kemudian Allah akan memberitahukan kepada mereka apa yang telah mereka perbuat.</arti>
+	</ayat>
+	<ayat>
+        <ke>160</ke><gambar>6_160.png</gambar>
+        <arti>Barangsiapa membawa amal yang baik, maka baginya (pahala) sepuluh kali lipat amalnya; dan barangsiapa yang membawa perbuatan jahat maka dia tidak diberi pembalasan melainkan seimbang dengan kejahatannya, sedang mereka sedikitpun tidak dianiaya (dirugikan).</arti>
+	</ayat>
+	<ayat>
+        <ke>161</ke><gambar>6_161.png</gambar>
+        <arti>Katakanlah: "Sesungguhnya aku telah ditunjuki oleh Tuhanku kepada jalan yang lurus, (yaitu) agama yang benar, agama Ibrahim yang lurus, dan Ibrahim itu bukanlah termasuk orang-orang musyrik".</arti>
+	</ayat>
+	<ayat>
+        <ke>162</ke><gambar>6_162.png</gambar>
+        <arti>Katakanlah: sesungguhnya sembahyangku, ibadatku, hidupku dan matiku hanyalah untuk Allah, Tuhan semesta alam.</arti>
+	</ayat>
+	<ayat>
+        <ke>163</ke><gambar>6_163.png</gambar>
+        <arti>Tiada sekutu bagiNya; dan demikian itulah yang diperintahkan kepadaku dan aku adalah orang yang pertama-tama menyerahkan diri (kepada Allah)".</arti>
+	</ayat>
+	<ayat>
+        <ke>164</ke><gambar>6_164.png</gambar>
+        <arti>Katakanlah: "Apakah aku akan mencari Tuhan selain Allah, padahal Dia adalah Tuhan bagi segala sesuatu. Dan tidaklah seorang membuat dosa melainkan kemudharatannya kembali kepada dirinya sendiri; dan seorang yang berdosa tidak akan memikul dosa orang lain. Kemudian kepada Tuhanmulah kamu kembali, dan akan diberitakan-Nya kepadamu apa yang kamu perselisihkan."</arti>
+	</ayat>
+	<ayat>
+        <ke>165</ke><gambar>6_165.png</gambar>
+        <arti>Dan Dia lah yang menjadikan kamu penguasa-penguasa di bumi dan Dia meninggikan sebahagian kamu atas sebahagian (yang lain) beberapa derajat, untuk mengujimu tentang apa yang diberikan-Nya kepadamu. Sesungguhnya Tuhanmu amat cepat siksaan-Nya dan sesungguhnya Dia Maha Pengampun lagi Maha Penyayang.</arti>
+	</ayat>
 </resource>

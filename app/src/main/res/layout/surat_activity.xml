@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/surat_activity"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.talagasoft.appqurannew.SuratActivity"
+    android:background="@drawable/back"
+    android:padding="5dp">
+
+    <ListView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/lstSurat"
+        android:dividerHeight="10dp"
+        android:clickable="false"
+        android:focusable="false"
+        android:longClickable="false"
+        android:choiceMode="singleChoice"
+        android:descendantFocusability="beforeDescendants"
+        style="@style/Widget.AppCompat.ListView"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp" />
+</RelativeLayout>
